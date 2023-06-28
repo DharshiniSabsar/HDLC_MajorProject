@@ -1,14 +1,12 @@
 # HDLC_MajorProject
 
 Problem Statement:
-
 Developing a functionality to connect a form to a database using PHP and MySQL, allowing users
 to submit and store applicant information, including attributes such as applicant name, gender,
 qualification, age, date of birth, etc. The form will utilize HTML for input fields and PHP for
 establishing the connection to the database.
 
 Description:
-
 The objective is to create a form that enables users to enter applicant details and submit them for
 storage in a MySQL database. The form will include input fields for attributes such as applicant
 name, gender, qualification, specialisation subject(use options), age, and date of birth. Upon
@@ -20,7 +18,6 @@ submission, validate the input for completeness and correctness, and establish a
 the MySQL database.
 
 Key Requirements:
-
 1. Design an HTML form with input fields for attributes like applicant name, gender, qualification,
 age, and date of birth.
 2. Utilize appropriate HTML input field types and attributes for each attribute, ensuring data
